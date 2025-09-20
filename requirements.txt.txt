@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+streamlit-lottie
+Pillow
+requests
+python-dotenv
+google-generativeai  # <--- ADD THIS LINE
